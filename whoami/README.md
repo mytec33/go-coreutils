@@ -6,9 +6,9 @@ This tool hasn't been tested against the GNU coreutils program of the same name,
 
 ## Platforms
 
-| Platform            | Builds|Tests|Architecture|
-| :-------------------| :----:|:---:|:----------|
-| `macOS (darwin)`    | ✅    |✅   |`arm64`      |
-| `linux - Ubuntu`    | ✅    |✅   |`amd64`, `arm64`|
-| `openbsd`           | ✅    |✅   |`armd64`     |
+| Platform            |Version| Builds|Tests|Architecture|
+| :---------------------|-|:----:|:---:|:----------|
+| `macOS (darwin)`      |15.x| ✅    |✅   |`arm64`      |
+| `linux (Ubuntu)`|24.04| ✅    |✅   |`amd64`, `arm64`|
+| `openbsd`             |7.6| ✅    |✅   |`armd64`     |
 
